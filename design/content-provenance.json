@@ -1,0 +1,20 @@
+{
+  "capturedDate": "2026-10-31",
+  "sources": {
+    "quran": "https://tanzil.net/pub/download/index.php?quranType=uthmani&outType=xml&agree=true",
+    "azkar": "https://raw.githubusercontent.com/osamayy/azkar-db/master/azkar.json",
+    "hisn": "https://raw.githubusercontent.com/wafaaelmaandy/Hisn-Muslim-Json/master/husn_en.json",
+    "pagination": "https://tanzil.net/res/text/metadata/quran-data.xml"
+  },
+  "sha256": {
+    "design/tanzil-uthmani.xml": "203f0f1bf3158b1e5be4ab9f8f6870e570aab6d9a626fe6192a70b75d4afe0fd",
+    "design/adhkar-source.json": "56fe8c31319b3b65a2ac598b057ce781ec2e7d561743264a9d7e864407693eaf",
+    "design/hisn-source.json": "a72e9a8f22a5f7c5e12e2f2b01be55dbc5bb5900341c3aa77473d14f39bd1fe2",
+    "assets/data/quran.json": "3ee83ed10ff8af2f91f8ca3d73f1daf1be9b5f243a87f1fdf23c38adbce163e9",
+    "assets/data/adhkar.json": "9471dea8d987487f25c4138d19f3773e4c88f4b1ea0036a012d3603d510a2dcf",
+    "design/quran-metadata.xml": "8867c1d88191472adec9db694b3cd9f135b1a2ef580574d32cf888dcb22c5c7a",
+    "assets/data/quran-pages.json": "59b09a2d4ae1c6f0d12fd07de07a06cf7268918bca02092d3df9d271a89a5d13"
+  },
+  "adhkarPreparation": "tool/prepare_content.py; immutable upstream commits in tool/content_manifest.json; source descriptions preserved as virtue",
+  "integrityNote": "sha256 records local snapshot bytes. Use canonical JSON SHA256 in tool/content_manifest.json for cross-platform Adhkar preparation."
+}

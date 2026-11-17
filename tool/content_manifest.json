@@ -1,0 +1,428 @@
+{
+  "sources": {
+    "adhkar-source.json": {
+      "url": "https://raw.githubusercontent.com/osamayy/azkar-db/fbdfa017782c907fd0ca4ee2726060cbc527072f/azkar.json",
+      "json_sha256": "1df8fad2441cac81280252942f5b6c40b114939698afef20b4dd379365c4085f"
+    },
+    "hisn-source.json": {
+      "url": "https://raw.githubusercontent.com/wafaaelmaandy/Hisn-Muslim-Json/d0dcf9d5736ac3bc73b38fe5015b74c081d00d58/husn_en.json",
+      "json_sha256": "6fa46aac007d1945b920f5c708ce484126e3ebdd543e0d7247b96d95e08fc4c6"
+    }
+  },
+  "selection": [
+    {
+      "id": "azkar-db-1",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-2",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-3",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-4",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-5",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-6",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-7",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-8",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-9",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-10",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-11",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-12",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-13",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-14",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-15",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-17",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-18",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-19",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-20",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-22",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-24",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-27",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-29",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-30",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-31",
+      "category": "morning",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-32",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-33",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-34",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-35",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-36",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-37",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-38",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-39",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-40",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-41",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-42",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-43",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-44",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-45",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-46",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-47",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-49",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-50",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-51",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-52",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-54",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-56",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-59",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "azkar-db-61",
+      "category": "evening",
+      "source": "حصن المسلم — بيانات osamayy/azkar-db"
+    },
+    {
+      "id": "hisn-28-99",
+      "category": "sleep",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • أذكار النوم • معرّف النص في المصدر: 99"
+    },
+    {
+      "id": "hisn-28-100",
+      "category": "sleep",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • أذكار النوم • معرّف النص في المصدر: 100"
+    },
+    {
+      "id": "hisn-28-101",
+      "category": "sleep",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • أذكار النوم • معرّف النص في المصدر: 101"
+    },
+    {
+      "id": "hisn-28-102",
+      "category": "sleep",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • أذكار النوم • معرّف النص في المصدر: 102"
+    },
+    {
+      "id": "hisn-28-103",
+      "category": "sleep",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • أذكار النوم • معرّف النص في المصدر: 103"
+    },
+    {
+      "id": "hisn-28-104",
+      "category": "sleep",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • أذكار النوم • معرّف النص في المصدر: 104"
+    },
+    {
+      "id": "hisn-28-105",
+      "category": "sleep",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • أذكار النوم • معرّف النص في المصدر: 105"
+    },
+    {
+      "id": "hisn-28-106",
+      "category": "sleep",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • أذكار النوم • معرّف النص في المصدر: 106"
+    },
+    {
+      "id": "hisn-28-107",
+      "category": "sleep",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • أذكار النوم • معرّف النص في المصدر: 107"
+    },
+    {
+      "id": "hisn-28-108",
+      "category": "sleep",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • أذكار النوم • معرّف النص في المصدر: 108"
+    },
+    {
+      "id": "hisn-28-109",
+      "category": "sleep",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • أذكار النوم • معرّف النص في المصدر: 109"
+    },
+    {
+      "id": "hisn-28-110",
+      "category": "sleep",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • أذكار النوم • معرّف النص في المصدر: 110"
+    },
+    {
+      "id": "hisn-28-111",
+      "category": "sleep",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • أذكار النوم • معرّف النص في المصدر: 111"
+    },
+    {
+      "id": "hisn-1-1",
+      "category": "wake",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • أذكار الاستيقاظ • معرّف النص في المصدر: 1"
+    },
+    {
+      "id": "hisn-1-2",
+      "category": "wake",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • أذكار الاستيقاظ • معرّف النص في المصدر: 2"
+    },
+    {
+      "id": "hisn-1-3",
+      "category": "wake",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • أذكار الاستيقاظ • معرّف النص في المصدر: 3"
+    },
+    {
+      "id": "hisn-1-4",
+      "category": "wake",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • أذكار الاستيقاظ • معرّف النص في المصدر: 4"
+    },
+    {
+      "id": "hisn-10-16",
+      "category": "misc",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • الذكر عند الخروج من المنزل • معرّف النص في المصدر: 16"
+    },
+    {
+      "id": "hisn-10-17",
+      "category": "misc",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • الذكر عند الخروج من المنزل • معرّف النص في المصدر: 17"
+    },
+    {
+      "id": "hisn-11-18",
+      "category": "misc",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • الذكر عند دخول المنزل • معرّف النص في المصدر: 18"
+    },
+    {
+      "id": "hisn-25-66",
+      "category": "prayer",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • الذكر بعد إتمام الصلاة • معرّف النص في المصدر: 66"
+    },
+    {
+      "id": "hisn-25-67",
+      "category": "prayer",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • الذكر بعد إتمام الصلاة • معرّف النص في المصدر: 67"
+    },
+    {
+      "id": "hisn-25-68",
+      "category": "prayer",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • الذكر بعد إتمام الصلاة • معرّف النص في المصدر: 68"
+    },
+    {
+      "id": "hisn-25-69",
+      "category": "prayer",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • الذكر بعد إتمام الصلاة • معرّف النص في المصدر: 69"
+    },
+    {
+      "id": "hisn-25-70",
+      "category": "prayer",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • الذكر بعد إتمام الصلاة • معرّف النص في المصدر: 70"
+    },
+    {
+      "id": "hisn-25-71",
+      "category": "prayer",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • الذكر بعد إتمام الصلاة • معرّف النص في المصدر: 71"
+    },
+    {
+      "id": "hisn-25-72",
+      "category": "prayer",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • الذكر بعد إتمام الصلاة • معرّف النص في المصدر: 72"
+    },
+    {
+      "id": "hisn-25-73",
+      "category": "prayer",
+      "source": "حصن المسلم — بيانات Hisn-Muslim-Json",
+      "reference": "حصن المسلم • الذكر بعد إتمام الصلاة • معرّف النص في المصدر: 73"
+    }
+  ],
+  "generated_json_sha256": "e407689c2c6d985e1ddf7749a662c9a2ac6893dd65242a7487a9c127b033de20"
+}

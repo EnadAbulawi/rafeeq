@@ -1,0 +1,18 @@
+* text=auto
+*.dart text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.png binary
+*.ttf binary
+*.ico binary
+*.icns binary
+
+# Preserve byte-for-byte upstream text and its original license whitespace.
+assets/data/quran.json -text -whitespace
+assets/data/quran-pages.json -text -whitespace
+assets/data/TANZIL-LICENSE.txt -text -whitespace
+assets/fonts/*OFL.txt -text -whitespace
+design/tanzil-uthmani.xml -text -whitespace
+design/quran-metadata.xml -text -whitespace
